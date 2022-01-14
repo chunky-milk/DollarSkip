@@ -1,28 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: dollarskip
-Upstream-Contact: <preferred name and address to reach the upstream project>
-Source: <url://example.com>
-#
-# Please double check copyright with the licensecheck(1) command.
+Upstream-Contact: CleanMachine1 <CleanMachine1@users.noreply.github.com>
+Source: https://github.com/CleanMachine1/DollarSkip
 
-Files:     .gitattributes
-           .github/workflows/build.yml
-           .gitignore
-           Makefile
-           PKGBUILD
-           Pictures/terminal.png
-           README.md
-           dollarskip.c
-           install.sh
-Copyright: __NO_COPYRIGHT_NOR_LICENSE__
-License:   __NO_COPYRIGHT_NOR_LICENSE__
+Files: *
+Copyright: John Factotum
+License: MIT
 
-#----------------------------------------------------------------------------
-# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
-# license/copyright files.
-
-#----------------------------------------------------------------------------
-# License file: LICENSE
+License: MIT
  MIT License
  .
  Copyright (c) 2021 CleanMachine1
